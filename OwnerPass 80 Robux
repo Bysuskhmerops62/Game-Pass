@@ -1,4 +1,4 @@
 local gamePassOwners = {
-    [810213126] = true,
+    [4728732059] = true,
 }
 return gamePassOwners
